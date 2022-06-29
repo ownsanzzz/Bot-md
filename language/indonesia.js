@@ -94,7 +94,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu AzzBot-Md :*
+*📚 List-Menu AquaBotz:*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -779,12 +779,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}jiso 
 ├ ${prefix}lisa  
 ╰❒ ${prefix}rose
-
-╭─❒ 「 TqTo 」 
-├ AzzBot
-├ ZeeoneOfc
-├ Penyedia Module
-╰❒ And All Support
     `
 }
 
@@ -841,8 +835,7 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Base : @AquaBotz 
 `
 }
 exports.tos = (ownernomer) => {
@@ -1443,15 +1436,6 @@ return`╭─❒ 「 Random Cewe 」
 ├ ${prefix}jiso 
 ├ ${prefix}lisa  
 ╰❒ ${prefix}rose
-`
-}
-
-exports.tqto = () =>{
-	return`╭─❒ 「 TqTo 」 
-├AzzBot
-├ ZeeoneOfc
-├ Penyedia Module
-╰❒ And All Support
 `
 }
 
